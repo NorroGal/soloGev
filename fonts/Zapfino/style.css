@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Zapfino Extra';
+    src: local('Zapfino Extra One'), local('Zapfino-Extra-One'),
+        url('ZapfinoExtraLT-One.woff2') format('woff2'),
+        url('ZapfinoExtraLT-One.woff') format('woff'),
+        url('ZapfinoExtraLT-One.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
